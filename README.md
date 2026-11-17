@@ -9,7 +9,7 @@ app and a terminal client that talk to a small local core over localhost. Your
 models, your memory, your spend, your files; a permission rule decides what an
 agent may touch.
 
-**LH** — the harness underneath it. The core, the clients, memory, tools,
+**[LastHarness](https://github.com/TheSyrianDev/LastHarness)** — the harness underneath it. The core, the clients, memory, tools,
 provider layer, spend limits. Plain and unopinionated: give it a model and a
 goal, it runs the turn loop. No downloader, no inference engine.
 
